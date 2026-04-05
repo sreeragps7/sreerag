@@ -93,7 +93,7 @@ export default function App() {
           >
             <div className="w-12 h-12 bg-white rounded-sm flex items-center justify-center overflow-hidden">
               <img 
-                src="https://pasteboard.co/svImFNhHb3tv.png" 
+                src="https://pasteboard.co/A3FJsrJdU99a.png" 
                 alt="Mouse House VFX Logo" 
                 className="w-full h-full object-contain"
                 referrerPolicy="no-referrer"
@@ -437,7 +437,7 @@ export default function App() {
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-white rounded-sm flex items-center justify-center overflow-hidden">
               <img 
-                src="https://www.facebook.com/photo/?fbid=122104712528486214&set=a.122104712552486214&__cft__[0]=AZaL9ej-I2aAz_OvH4lukVoDIIgVEFHlh06qSqSg59NzzZ1KCV2z6Lgm6SPoTNSMOXrEwx3fJkdO9a4EqB0T6Tr88CcdoSKRPYVGQ0JgEmkdh-UopIv-6MScH4lFdxsx6p8peDefuLMuk8jb-4suryQO&__tn__=~H-R" 
+                src="https://i.ibb.co/d8fhsD4/mousehouse-white-watermark-1-1.png" 
                 alt="Mouse House VFX Logo" 
                 className="w-full h-full object-contain"
                 referrerPolicy="no-referrer"
