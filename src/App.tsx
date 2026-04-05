@@ -437,7 +437,7 @@ export default function App() {
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-white rounded-sm flex items-center justify-center overflow-hidden">
               <img 
-                src="https://jumpshare.com/share/uoXwpcG2XQEj2pgjBdx9" 
+                src="https://www.facebook.com/photo/?fbid=122104712528486214&set=a.122104712552486214&__cft__[0]=AZaL9ej-I2aAz_OvH4lukVoDIIgVEFHlh06qSqSg59NzzZ1KCV2z6Lgm6SPoTNSMOXrEwx3fJkdO9a4EqB0T6Tr88CcdoSKRPYVGQ0JgEmkdh-UopIv-6MScH4lFdxsx6p8peDefuLMuk8jb-4suryQO&__tn__=~H-R" 
                 alt="Mouse House VFX Logo" 
                 className="w-full h-full object-contain"
                 referrerPolicy="no-referrer"
